@@ -1,0 +1,121 @@
+.main {
+    padding: 5rem;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+}
+
+.cards-css {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-image {
+    border-radius: 50px;
+    margin-right: 10rem;
+}
+
+.circle-image-card {
+    border-radius: 50%;
+    margin-left: 11rem;
+    margin-top: 1rem;
+}
+
+.circle-image-card-2 {
+    border-radius: 50%;
+    margin-left: 9rem;
+    margin-top: 1rem;
+}
+
+.startup-header {
+    display: flex;
+}
+
+.startup-header-title {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+}
+
+.tabview-demo .tabview-header-icon i,
+.tabview-demo .tabview-header-icon span {
+    vertical-align: middle;
+}
+
+.tabview-demo .tabview-header-icon span {
+    margin: 0 .5rem;
+}
+
+.tabview-demo .p-tabview p {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.panel-header {
+    display: flex;
+}
+
+.p-tabview .p-tabview-nav {
+    /* background: #ffffff; */
+    /* border: 1px solid #dee2e6; */
+    /* border-width: 0 0 2px 0; */
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+}
+
+.profile-details-two {
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    height: fit-content;
+    background-color: #f3f3f3;
+    flex-direction: column;
+}
+
+.profile-details-two-card {
+    display: flex;
+}
+
+.profile-details-three {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.p-card .p-card-subtitle {
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    color: #6c757d;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.charts-cards {
+    display: flex;
+
+}
+
+.chart-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-knob {
+    display: flex;
+    border: solid #000;
+    border-width:  1px;
+    border-radius: 1rem;
+}
+.card-knob-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

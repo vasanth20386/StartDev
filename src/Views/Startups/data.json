@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "startupName": "NowZone",
+            "starupInfo": "A Comprehensive Wellness Platform powered by the combination of state-of-art technology and ancient Vedic and Buddhist teachings.Nowfulness®️ is not just a term but a concept that allows your mind to embrace the direct experiences of all the possibilities that seem to be arising in that particular moment.",
+            "startupWeb": "Health Care",
+            "people": [
+                {
+                    "name": "Akash Madnani",
+                    "title": "Co-Founder and Chief Product Officer"
+                },
+                {
+                    "name": "Ritu Nahar",
+                    "title": "Co-Founder and CEO"
+                },
+                {
+                    "name": "Prashant Tandon",
+                    "title": "Investor"
+                },
+                {
+                    "name": "Vidhu Goel",
+                    "title": "Investor"
+                }
+            ]
+        },
+        {
+            "startupName": "Tutti Fruitti",
+            "starupInfo": "Tuttifrutti Interactive is an award-winning premium Game Developing Studio, and has a multi-talented 23 member in-house team with a combined industry expertise of over 180 years! The company has skyrocketed in the gaming world with a bang, making it a hub for gaming modules of premium quality Art/Animation/ Cross-platform Development/ Testing services and delivered in record time! Our team members have zealously worked with Zynga, Disney, Pocket gems, Chillingo in many record-breaking titles. We have the capacity to deliver complete premium game IP, thereby showcasing our skills to the maximum! Our latest award winning adventure casual game “Darkarta: A Broken Heart’s Quest” is available in steam!.",
+            "startupWeb": "Gaming",
+            "people": [
+                {
+                    "name": "Ajish G habib",
+                    "title": "Founder"
+                },
+                {
+                    "name": "Bijish G habib",
+                    "title": "Founder and CEO"
+                },
+                {
+                    "name": "Jaff Haiyne",
+                    "title": "Art Director"
+                },
+                {
+                    "name": "Vineeth Abraham",
+                    "title": "Investor"
+                }
+            ]
+        },
+        {
+            "startupName": "Nap Eazy",
+            "starupInfo": "India's First Travel Comfort Brand by Airbus Engineers | Kickstarter Successful | Shark Tank India Finalist | napEazy - World’s only neck, back, and spine support pillow.India's First Travel Comfort Brand by Airbus Engineers | Kickstarter Successful | Shark Tank India Finalist | napEazy - World’s only neck, back, and spine support pillow.",
+            "startupWeb": "Travelling",
+            "people": [
+                {
+                    "name": "Pradipta kisghore sahoo",
+                    "title": "C0-Founder and CEO"
+                },
+                {
+                    "name": "sarit Prajna Sahu",
+                    "title": " Co -FOunder and Chief Operating Officer"
+                },
+                {
+                    "name": "Abhushek Pattnaik",
+                    "title": "Co-Founder"
+                },
+                {
+                    "name": "Himanshu Raj",
+                    "title": "Sales and Marketing Specialist"
+                }
+            ]
+        },
+        {
+            "startupName": "Aerchain",
+            "starupInfo": "Founded in 2019 by Harsha Kadimisetty and Himavanth Jasti with an objective to autonomize procurement by making business commerce as simple as e-commerce, letting customers procure the right things from the right supplier at the right price, and enabling suppliers to find and get new business opportunities.We aim to enable businesses to focus on their core strengths and eliminate all their non-value-adding processes",
+            "startupWeb": "IT Services",
+            "people": [
+                {
+                    "name": "Harsha ",
+                    "title": "Co-Founder and CEO"
+                },
+                {
+                    "name": "Himavanth",
+                    "title": "Co-Founder and CTO"
+                },
+                {
+                    "name": " Rajendra",
+                    "title": "Investor"
+                },
+                {
+                    "name": "Peter ",
+                    "title": "COO"
+                }
+            ]
+        }
+    ]
+}

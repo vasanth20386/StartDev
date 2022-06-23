@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "startupName": "TWEEK LABS",
+            "starupInfo": "We are a sports technology company who aim to bring high performance sports infrastructure and knowledge to the sports organisations in your neighbourhood. We believe in the scientific approach to sports coaching and want to create products that make these methods more accessible and eventually give every aspiring athlete an equal chance to improve themselves.",
+            "startupWeb": "Spectator Sports",
+            "people": [
+                {
+                    "name": "Ayush Kushwaha",
+                    "title": "Co-Founder and Chief Product Officer"
+                },
+                {
+                    "name": "Anant Sharma",
+                    "title": "Co-Founder and CEO"
+                },
+                {
+                    "name": "Shwetank Shrey",
+                    "title": "Co-Founder and CTO"
+                },
+                {
+                    "name": "Aman Parnami",
+                    "title": "Chief Mentor"
+                }
+            ]
+        },
+        {
+            "startupName": "SCRAP UNCLE",
+            "starupInfo": "ScrapUncle- The Online Kabadiwala is an early-stage startup with a vision to bring about a systematic change in India's recyclable waste management problem. ScrapUncle's digital recycling platform enables users to dispose of their recyclables in a responsible and rewarding manner. Users can simply schedule a doorstep pickup for their recyclables (Paper, Plastics, Metals, Ewaste) & get paid for them.",
+            "startupWeb": "Environmental Services",
+            "people": [
+                {
+                    "name": "Mukul Chhabra",
+                    "title": "Founder"
+                },
+                {
+                    "name": "Ashutosh Kumar",
+                    "title": "CTO"
+                },
+                {
+                    "name": "Vibhor Kapoor",
+                    "title": "Member"
+                },
+                {
+                    "name": "Aasif Khan",
+                    "title": "Swapeco"
+                }
+            ]
+        },
+        {
+            "startupName": "Virtual Cyber Labs",
+            "starupInfo": "We at Virtual Cyber Labs provide live training programs of cybersecurity to individual enthusiasts. Our three exclusively designed courses for everyone; entrepreneurs or business owners; and cybercrime investigators have been recognized by many industry experts and are a perfect fit for their choice.",
+            "startupWeb": "E-Learning Providers",
+            "people": [
+                {
+                    "name": "Urvesh Thakkar",
+                    "title": "C0-Founder"
+                },
+                {
+                    "name": "Varun Herlekar",
+                    "title": "Chief Operating Officer"
+                },
+                {
+                    "name": "Manish Sharma",
+                    "title": "Operating Officer"
+                },
+                {
+                    "name": "Himanshu Bajaj",
+                    "title": "Sales and Marketing Specialist"
+                }
+            ]
+        },
+        {
+            "startupName": "Grow Indigo Pvt. Ltd",
+            "starupInfo": "Grow Indigo was established in 2018 by Mahyco Grow and Indigo Ag. Building on the technological innovation of the two market leaders we thrive to maximize farmer's benefits. Our primary objective is to tackle the challenges farmers face every day and assist them to improve their yields, generate more revenue and implement sustainable farming practices.Grow Online - An agri-input e-commerce platform connecting agri-input companies with retailers.",
+            "startupWeb": "IT Services and IT Consulting",
+            "people": [
+                {
+                    "name": "Umang Agarwal ",
+                    "title": "Founder"
+                },
+                {
+                    "name": "Usha Zehr",
+                    "title": "Executive Director"
+                },
+                {
+                    "name": "Shirish Rajendra Barwale",
+                    "title": "Director"
+                },
+                {
+                    "name": "Peter Innes",
+                    "title": "CTO"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+@import "./variables.scss";
+
+.main-container {
+	flex-direction: column;
+}
+.container {
+	width: 100%;
+	max-width: 90vw;
+}
+:enabled:focus,
+:not(.p-disabled).p-focus {
+	border-color: $primary !important;
+	box-shadow: none !important;
+}
+.bottom-bar {
+	width: 100%;
+	margin-top: 4em;
+	padding: 0 15px;
+	display: flex;
+	justify-content: space-between;
+
+	.cancel-btn {
+		border: none;
+		background-color: transparent !important;
+		color: $primary;
+		font-size: 1rem;
+		text-decoration: underline;
+	}
+
+	.cancel-btn:hover {
+		background-color: $white !important;
+		color: $danger !important;
+	}
+
+	.btn {
+		width: 180px;
+		margin-left: 1em;
+
+		&:hover {
+			background: $primary !important;
+			border: 1px solid $primary !important;
+		}
+	}
+}
+.p-datatable-thead > tr > th {
+	background-color: #2264D0	!important;
+	color: $white !important;
+}
+// .p-datatable-tbody > tr {
+// 	background: rgba($secondary, 0.1) !important;
+// }
+// .p-datatable-tbody > tr > td {
+// 	word-wrap: break-word;
+// }
+.p-datatable-tbody > tr {
+	background: rgba($secondary, 0.1) !important;
+	color: $primary-light !important;
+}
+
+.p-datatable-tbody > tr:nth-child(even) {
+	background: #E9ECEF	!important;
+}
+.p-inputgroup-addon.error-icon {
+	border-left: 0;
+	color: red;
+	background: transparent;
+
+	margin-left: 0;
+	margin-right: 0;
+}
+.p-dialog {
+	max-width: 80vw !important;
+}
+.p-sidebar {
+	&-header {
+		display: none !important;
+	}
+	&-close {
+		display: none !important;
+	}
+}
+.p-skeleton {
+	background-color: $gray-400 !important;
+}
+
